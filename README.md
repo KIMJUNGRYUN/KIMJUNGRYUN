@@ -1,4 +1,4 @@
-###About Me
+### About Me
 <h1 align="center">Hi 👋, I'm JungRyun Kim</h1>
 <h3 align="center">I am a student studying IT because I am very interested in it. I hope it's a better day than yesterday</h3>
 
